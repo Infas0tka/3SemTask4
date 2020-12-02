@@ -1,0 +1,5 @@
+notebook   jj3rj2r bookkeeper  jj3rj2r chair    grandmaster  cheburek logic    table wonderful jj3rj2r
+
+Deleted all 'last' words:      notebook    bookkeeper   chair    grandmaster  cheburek logic    table wonderful 
+No extra spaces:               notebook bookkeeper chair grandmaster cheburek logic table wonderful
+Deleted last letter:           noteboo bookkeepe chai grandmaste chebure logi tabl wonderfu

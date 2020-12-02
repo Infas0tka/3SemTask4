@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606938053 source:c:\users\super\onedrive\Рабочий стол\proggers\3sem\task4\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
