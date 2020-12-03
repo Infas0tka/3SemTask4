@@ -1,0 +1,5 @@
+   as  as  asd   as   asas   asdfa   as as            .
+
+No extra spaces:               as as asd as asas asdfa as as
+Deleted all 'last' words:      asd asas asdfa
+Deleted last letter:           as asa asdf
